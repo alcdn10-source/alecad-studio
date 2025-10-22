@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AleCAD Studio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f2f2f2; margin:0; padding:0; color:#333; }
+    header { background:#e0e0e0; padding:20px; text-align:center; }
+    h1 { margin:0; font-size:2rem; }
+    .hero { padding:60px 20px; text-align:center; }
+    .btn { display:inline-block; padding:12px 24px; border-radius:8px; background:#555; color:white; text-decoration:none; margin-top:20px; }
+    footer { text-align:center; padding:20px; font-size:0.9rem; color:#666; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>AleCAD Studio</h1>
+  <p>Recursos digitales de AutoCAD, SketchUp y más</p>
+</header>
+<section class="hero">
+  <h2>Optimiza tus proyectos de ingeniería y diseño</h2>
+  <p>Planos, plantillas, documentos y herramientas profesionales listas para usar.</p>
+  <a class="btn" href="https://wa.me/524531505881">Contactar por WhatsApp</a>
+</section>
+<footer>
+  © 2025 AleCAD Studio
+</footer>
+</body>
+</html>
